@@ -1,4 +1,4 @@
 var config = {
-    mapAPI:"12345",
-    
+    mykey:"AIzaSyC8kLkcIvMrk49lsc46bdAIr-aq8Mnipo8",
+    secretkey: "temporarykey"
 }
